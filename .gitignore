@@ -1,0 +1,12 @@
+.venv/
+.env
+runtime/
+tmp/
+logs/*.out
+logs/*.log
+__pycache__/
+*.pyc
+wisteria
+wisteria.pub
+PREPARE.md
+*.pdf
